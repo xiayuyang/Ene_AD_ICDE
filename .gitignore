@@ -1,0 +1,4 @@
+*out/
+*__pycache__/
+*.idea/
+*/gym_carla/multi_lane/pth/
