@@ -38,7 +38,7 @@ $ conda activate env_name
 ```
 3. Clone the repo and Install the dependent package
 ```shell
-$ git clone https://github.com/xiayuyang/Ene-AD.git
+$ git clone https://github.com/xiayuyang/Ene_AD_ICDE.git
 $ pip install -r requirements.txt
 ```
 4. Train the RL agent in the multi-lane scenario
